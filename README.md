@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Web Scraping Project: Flipkart and Amazon Data Extraction</title>
+   
 </head>
 <body>
 
